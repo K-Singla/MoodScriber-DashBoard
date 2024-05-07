@@ -1,8 +1,10 @@
 # MoodScriber (Data Analysis)
 
+Note: This is the project done in the MoodScriber's Data Challenge '24 with the sample Dataset provided by the Company.
+
 ## About the Application
 
-MoodScriber allows you to track your mood, journal your daily personal experiences and feelings. Our innovative app combines the power of artificial intelligence with the simplicity of a mood diary, offering you a unique way to understand and manage your emotional health. In addition to this, users can leverage on the app’s AI enabled features to complete tasks faster and help in improving the users’ writing skills.
+It is a mobile application owned by Company CuroStrides. MoodScriber allows you to track your mood, journal your daily personal experiences and feelings. This innovative app combines the power of artificial intelligence with the simplicity of a mood diary, offering you a unique way to understand and manage your emotional health. In addition to this, users can leverage on the app’s AI enabled features to complete tasks faster and help in improving the users’ writing skills.
 
 
 ## About Dashboard
